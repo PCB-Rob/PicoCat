@@ -7,12 +7,16 @@ Still a work in progress... so not ready for prime time yet : )
 Micropython<br> 
   PicoCat : https://micropython.org/download/RPI_PICO/<br>
   PicoCatWeb : https://micropython.org/download/RPI_PICO_W/<br>
+  IDE: https://thonny.org/
 </p>
 <p>
 Picomite Basic<br>
   PicoCat : https://geoffg.net/picomite.html<br>
   PicoCatWeb : https://geoffg.net/webmite.html<br>
   PicoCat VGA Hat: https://geoffg.net/picomitevga.html<br>
+  Windows Terminal Program: https://tera-term.en.lo4d.com/windows
+  Linux Terminal Program: https://github.com/tio/tio
+  - tio /dev/ttyACM0 -b 115200 -mODELBS
 </p>
 <p>
 Arduino IDE:
