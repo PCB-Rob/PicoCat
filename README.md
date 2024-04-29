@@ -16,7 +16,7 @@ Still a work in progress... so not ready for prime time yet : )
   Linux Terminal Program: https://github.com/tio/tio<br>
   - tio /dev/ttyACM0 -b 115200 -mODELBS<br>
 </p>
-<p><b>Arduino IDE C++</b>:
+<p><b>Arduino IDE C++</b><br>
   File >> Preferences,  In the additional boards manager, add this line<br>
   https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json<br>
   Boards Manager -> install the Raspberry Pi Pico / RP2040 board.<br>
