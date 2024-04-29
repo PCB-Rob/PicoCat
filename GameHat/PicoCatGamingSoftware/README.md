@@ -1,11 +1,8 @@
 # Raspberry Pi Pico RetroGaming System
 
-PicoCat Version
-* see: https://github.com/PCB-Rob/PicoCat
+<b>PicoCat Version</b>
 
-Original Code and games for the Raspberry Pi Pico RetroGaming System
-* [YouTube video](https://youtu.be/VYeIR5n5Few)
-* [Assembly instructions](https://www.youmaketech.com/raspberry-pi-pico-retrogaming-system/)
+Original Code and games for the Raspberry Pi Pico RetroGaming System by https://github.com/YouMakeTech
 
 Files
 =====
