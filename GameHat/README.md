@@ -1,1 +1,1 @@
-PicoCat GameHat is a fun Case with button to play and develope small games
+PicoCat GameHat is a fun Case with buttons to play and develop small games
