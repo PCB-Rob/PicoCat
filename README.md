@@ -14,9 +14,9 @@ Picomite Basic<br>
   PicoCat : https://geoffg.net/picomite.html<br>
   PicoCatWeb : https://geoffg.net/webmite.html<br>
   PicoCat VGA Hat: https://geoffg.net/picomitevga.html<br>
-  Windows Terminal Program: https://tera-term.en.lo4d.com/windows
-  Linux Terminal Program: https://github.com/tio/tio
-  - tio /dev/ttyACM0 -b 115200 -mODELBS
+  Windows Terminal Program: https://tera-term.en.lo4d.com/windows<br>
+  Linux Terminal Program: https://github.com/tio/tio<br>
+  - tio /dev/ttyACM0 -b 115200 -mODELBS<br>
 </p>
 <p>
 Arduino IDE:
