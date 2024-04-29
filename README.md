@@ -18,4 +18,5 @@ Picomite Basic<br>
 Arduino IDE:
   File >> Preferences,  In the additional boards manager, add this line<br>
   https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json<br>
+  Boards Manager -> install the Raspberry Pi Pico / RP2040 board.<br>
 </p>
