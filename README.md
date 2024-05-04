@@ -6,7 +6,12 @@ Still a work in progress... so not ready for prime time yet : )
 <p><b>Micropython</b><br> 
   PicoCat : https://micropython.org/download/RPI_PICO/<br>
   PicoCatWeb : https://micropython.org/download/RPI_PICO_W/<br>
-  IDE: https://thonny.org/
+  Thonny IDE: https://thonny.org/<br>
+</p>
+<p><b>CircuitPython</b> <i>( I prefer Micropython myself )</i><br>
+  PicoCat : https://circuitpython.org/board/raspberry_pi_pico/<br>
+  PicoCatWeb : https://circuitpython.org/board/raspberry_pi_pico_w/<br>
+  Mu IDE: https:/codewith.mu/<i> ( I recommend Thonny ></i>i></i><br>
 </p>
 <p><b>Picomite Basic</b><br>
   PicoCat : https://geoffg.net/picomite.html<br>
