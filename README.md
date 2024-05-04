@@ -5,8 +5,6 @@ PicoCat is a Raspberry Pi RP2040 Development Platform
 Here are some hats for your PicoCat<br>
 <img src="images/PicoCatHats.png" alt="PicoCat Hats"> 
 
-Still a work in progress... so not ready for prime time yet : )
-
 <p><b>Micropython</b><br> 
   PicoCat : https://micropython.org/download/RPI_PICO/<br>
   PicoCatWeb : https://micropython.org/download/RPI_PICO_W/<br>
@@ -30,3 +28,5 @@ Still a work in progress... so not ready for prime time yet : )
   https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json<br>
   Boards Manager -> install the Raspberry Pi Pico / RP2040 board.<br>
 </p>
+
+Still a work in progress... so check back often : )
