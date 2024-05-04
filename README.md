@@ -1,5 +1,6 @@
 # PicoCat
 PicoCat is a Raspberry Pi RP2040 Development Platform
+<img src="images/PicoCats.png" alt="PicoCats"> 
 
 Here are some hats for your PicoCat<br>
 <img src="images/PicoCatHats.png" alt="PicoCat Hats"> 
