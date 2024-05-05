@@ -23,7 +23,7 @@ Here are some hats for your PicoCat<br>
   Linux Terminal Program: https://github.com/tio/tio<br>
   - tio /dev/ttyACM0 -b 115200 -mODELBS<br>
 </p>
-<p><b>zeptoforth</b><i> ( Cortex-M Forth )</i>
+<p><b>zeptoforth</b><i> ( Cortex-M Forth )</i><br>
   All PicoCats: https://github.com/tabemann/zeptoforth/releases
 </p>
 <p><b>Arduino IDE C++</b><br>
