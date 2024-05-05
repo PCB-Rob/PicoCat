@@ -23,6 +23,9 @@ Here are some hats for your PicoCat<br>
   Linux Terminal Program: https://github.com/tio/tio<br>
   - tio /dev/ttyACM0 -b 115200 -mODELBS<br>
 </p>
+<p><b>zeptoforth</b><i> ( Cortex-M Forth )</i>
+  All PicoCats: https://github.com/tabemann/zeptoforth/releases
+</p>
 <p><b>Arduino IDE C++</b><br>
   File >> Preferences,  In the additional boards manager, add this line<br>
   https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json<br>
