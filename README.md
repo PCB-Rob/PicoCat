@@ -32,4 +32,5 @@ Here are some hats for your PicoCat<br>
   Boards Manager -> install the Raspberry Pi Pico / RP2040 board.<br>
 </p>
 
-Still a work in progress... so check back often : )
+For more Information:
+<img src="images/abc123.png" alt="WhoMI"> 
